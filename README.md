@@ -31,20 +31,13 @@ The exploratory data analysis (EDA) focuses on understanding the structure and c
 **Histograms:** Generate histograms for numerical columns to visualize the distribution of the data.
 
 
-![WhatsApp Image 2024-06-13 at 20 27 53_ef058431](https://github.com/tushar25012000/Django-CSV-Analysis-Webapp/assets/127213767/636cacdd-5ef4-436a-81fa-89db52849e6a)
+![Screenshot 2024-06-18 124151](https://github.com/vanshgupta-in/Django-Data-Analysis-WebApp/assets/170649814/052ae3e1-63a5-4499-b58d-6f83f68a76b0)
 
 
 **Histogram**
 
-![WhatsApp Image 2024-06-13 at 20 27 53_99cb6abb](https://github.com/tushar25012000/Django-CSV-Analysis-Webapp/assets/127213767/9015b82f-f4bf-48ea-a157-50acb1d21b2a)
 
-
-
-**Datasets Used**
-
-The dataset used in this project is an online sales dataset from a popular marketplace. 
-
-https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data?resource=download
+![Screenshot 2024-06-18 124409](https://github.com/vanshgupta-in/Django-Data-Analysis-WebApp/assets/170649814/0e7956ef-0995-44c2-93fe-e0aa2d8d60dc)
 
 
 
@@ -82,5 +75,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Contact**
 
-For any questions or suggestions, please open an issue in this repository or contact me at **tusharcanchi2000@gmail.com.**
+For any questions or suggestions, please open an issue in this repository or contact me at **vanshgupta2744@gmail.com.**
 
